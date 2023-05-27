@@ -1,0 +1,8 @@
+server:
+  port: 8080
+
+spring:
+  data:
+    mongodb:
+      database: library-dev
+      uri: mongodb://admin:password@localhost:27017
